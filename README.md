@@ -1,1 +1,1 @@
-Dockerizing Spring-boot project with mysql conatiner
+Dockerizing Spring-boot project 
